@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "stdio.h": "c"
+    },
+    "editor.fontLigatures": true,
+    "editor.mouseWheelZoom": true,
+    "code-runner.runInTerminal": true,
+    "code-runner.saveAllFilesBeforeRun": true,
+    "code-runner.saveFileBeforeRun": true,
+}
